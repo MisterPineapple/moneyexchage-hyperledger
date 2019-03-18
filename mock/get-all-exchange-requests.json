@@ -1,0 +1,10 @@
+{
+    "REQUEST01": {
+        "id": "patcharapol@th.ibm.com",
+        "requestId": "REQUEST001",
+        "origin": "USD",
+        "target": "SGD",
+        "originamount": "10000",
+        "targetamount": "0"
+    }
+}

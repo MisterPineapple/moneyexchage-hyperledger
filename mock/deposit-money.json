@@ -1,0 +1,90 @@
+{
+    "DEPOSIT01": { 
+        "id": "patcharapol@th.ibm.com",
+        "balance": [{
+                "currencyCode": "THB",
+                "balanceAmount": "500"
+            },
+            {
+                "currencyCode": "USD",
+                "balanceAmount": "10000"
+            }
+        ]
+    },
+    "DEPOSIT02": {
+        "id": "cat@th.ibm.com",
+        "balance": [{
+                "currencyCode": "SGD",
+                "balanceAmount": "13500"
+            },
+            {
+                "currencyCode": "CNY",
+                "balanceAmount": "500"
+            }
+        ]
+    },
+    "DEPOSIT03": {
+        "id": "penpon@th.ibm.com",
+        "balance": [{
+                "currencyCode": "THB",
+                "balanceAmount": "1000"
+            },
+            {
+                "currencyCode": "USD",
+                "balanceAmount": "500"
+            },
+            {
+                "currencyCode": "CNY",
+                "balanceAmount": "200"
+            },
+            {
+                "currencyCode": "SGD",
+                "balanceAmount": "5000"
+            },
+            {
+                "currencyCode": "JPY",
+                "balanceAmount": "500"
+            }
+        ]
+    },
+    "DEPOSIT04": { 
+        "id": "ei@th.ibm.com",
+        "balance": [{
+                "currencyCode": "CNY",
+                "balanceAmount": "300"
+            }
+        ]
+    },
+    "DEPOSIT05": { 
+        "id": "aaaaaaabbbbbbbb@th.ibm.com",
+        "balance": [{
+                "currencyCode": "THB",
+                "balanceAmount": "300"
+            },
+            {
+                "currencyCode": "USD",
+                "balanceAmount": "500"
+            }
+        ]
+    },
+    "DEPOSIT06": { 
+        "id": "patcharapol@th.ibm.com",
+        "balance": [{
+                "currencyCode": "JJJ",
+                "balanceAmount": "300"
+            }
+        ]
+    },
+    "DEPOSIT07": { 
+        "id": "patcharapol@th.ibm.com",
+        "balance": [{
+                "currencyCode": "USD",
+                "balanceAmount": "300"
+            },
+            {
+                "currencyCode": "AAA",
+                "balanceAmount": "500"
+            }
+        ]
+    }
+}

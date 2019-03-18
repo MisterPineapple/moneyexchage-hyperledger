@@ -1,0 +1,152 @@
+{
+    "USER01": {
+        "id": "patcharapol@th.ibm.com",
+        "username": "patcharapol",
+        "age": "24",
+        "gender": "male",
+        "nationality": "thai",
+        "role": "user",
+        "balance": [{
+            "currencyCode": "USD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "SGD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "THB",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "CNY",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "JPY",
+            "balanceAmount": "0"
+            }
+        ],
+        "cert": "-----BEGIN CERTIFICATE-----\nMIICizCCAjGgAwIBAgIUe1+dsggC6K2eASTSAZtAnkxauZIwCgYIKoZIzj0EAwIw\nczELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT\nE2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMTgxMDI0MDgzMzAwWhcNMTkxMDI0MDgz\nODAwWjA8MRwwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMRwwGgYDVQQDDBNh\nZG1pbkBza2J1bGxpb24uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEjfX\nieeL1jM6zRBbp50tlJrt6122uM1d37j/7yuSFv7TQ69j9//T+WmnasdczmmxMXn0\neCh8t25Nn45iItGvRaOB2TCB1jAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIw\nADAdBgNVHQ4EFgQULUc0biU9ndx1WZEhGoKbfVhCj7owKwYDVR0jBCQwIoAgQjmq\nDc122u64ugzacBhR0UUE0xqtGy3d26xqVzZeSXwwagYIKgMEBQYHCAEEXnsiYXR0\ncnMiOnsiaGYuQWZmaWxpYXRpb24iOiJvcmcxIiwiaGYuRW5yb2xsbWVudElEIjoi\nYWRtaW5Ac2tidWxsaW9uLmNvbSIsImhmLlR5cGUiOiJjbGllbnQifX0wCgYIKoZI\nzj0EAwIDSAAwRQIhAMe3aIkBky/tk7j01BBjfbLGHTgOgd47k4/In46eabBWAiAQ\nPlxiTUm+Lu+Wzw9I/SS7lq1vOt7gWekd5j1P1j18CA==\n-----END CERTIFICATE-----\n"
+    },
+    "USER02": {
+        "id": "cat@th.ibm.com",
+        "username": "catty",
+        "age": "35",
+        "gender": "female",
+        "nationality": "mongolia",
+        "role": "user",
+        "balance": [{
+            "currencyCode": "USD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "SGD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "THB",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "CNY",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "JPY",
+            "balanceAmount": "0"
+            }
+        ],
+        "cert": "-----BEGIN CERTIFICATE-----\nMIICiDCCAi+gAwIBAgIUKQhDq0QfNNQokAiSJGTCala30D8wCgYIKoZIzj0EAwIw\nczELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT\nE2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMTgxMDI0MDgzMzAwWhcNMTkxMDI0MDgz\nODAwWjA7MRwwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMRswGQYDVQQDDBJ0\nb255QHNrYnVsbGlvbi5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS8o6yQ\nY2rH65oEJWBt9wvucX+snnTeQxhYufGd58jXkRW73Qfo5mFthIPwCfQneTo1ogzC\nysgTtcUUktefWOGho4HYMIHVMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA\nMB0GA1UdDgQWBBQHCopfsYoQnZ40s+s+B1a7VMYY2jArBgNVHSMEJDAigCBCOaoN\nzXba7ri6DNpwGFHRRQTTGq0bLd3brGpXNl5JfDBpBggqAwQFBgcIAQRdeyJhdHRy\ncyI6eyJoZi5BZmZpbGlhdGlvbiI6Im9yZzEiLCJoZi5FbnJvbGxtZW50SUQiOiJ0\nb255QHNrYnVsbGlvbi5jb20iLCJoZi5UeXBlIjoiY2xpZW50In19MAoGCCqGSM49\nBAMCA0cAMEQCIAv/iZXFoiB/jlmgIej7M34zYsEr3p9aJ/id6Ed62f/FAiAaCB9z\n29tQbMYh2mpM1VGWwArW2XJ3vDyHiXXCTyMC9w==\n-----END CERTIFICATE-----\n"
+    },
+    "USER03": {
+        "id": "penpon@th.ibm.com",
+        "username": "pen",
+        "age": "18",
+        "gender": "female",
+        "nationality": "chinese",
+        "role": "user",
+        "balance": [{
+            "currencyCode": "USD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "SGD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "THB",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "CNY",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "JPY",
+            "balanceAmount": "0"
+            }
+        ],
+        "cert": "-----BEGIN CERTIFICATE-----\nMIICjTCCAjOgAwIBAgIUFd2/ejLfduRoVHqvHzfCHYYdcBIwCgYIKoZIzj0EAwIw\nczELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT\nE2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMTkwMTAzMDgzMTAwWhcNMjAwMTAzMDgz\nNjAwWjA9MRwwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMR0wGwYDVQQDDBRj\naG9uZ0BidWxsaW9uaXN0LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABArP\nPdhMfoIZrN2u3Sut+LqzT8cOavNTEtB4zYBDWBz0lxBHNbL5S+XPus26oyIg0+2z\nCcxfupVtRy+BHlj7MIKjgdowgdcwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQC\nMAAwHQYDVR0OBBYEFH3QNvOJnxRALKby6pE4xjfCfpbkMCsGA1UdIwQkMCKAIANH\nqRrOyWr/WicvEabABXDFPdMHSHmdVwZUPy1BLI55MGsGCCoDBAUGBwgBBF97ImF0\ndHJzIjp7ImhmLkFmZmlsaWF0aW9uIjoib3JnMSIsImhmLkVucm9sbG1lbnRJRCI6\nImNob25nQGJ1bGxpb25pc3QuY29tIiwiaGYuVHlwZSI6ImNsaWVudCJ9fTAKBggq\nhkjOPQQDAgNIADBFAiEArLTovw3uevHtdoRC1cenUx46Q/+bxjg6GdsI1TNWqhUC\nIBNnlGKYPmN2ikrr1ROKP9Fi7tGRFLwDZaxgMA+t6sL3\n-----END CERTIFICATE-----\n"
+    },
+    "USER04": {
+        "id": "ei@th.ibm.com",
+        "username": "haha",
+        "age": "25",
+        "gender": "male",
+        "nationality": "japanese",
+        "role": "user",
+        "balance": [{
+            "currencyCode": "USD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "SGD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "THB",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "CNY",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "JPY",
+            "balanceAmount": "0"
+            }
+        ],
+        "cert": "-----BEGIN CERTIFICATE-----\nMIICjjCCAjSgAwIBAgITKS6rtlOVQZzWOxG+8U3K43PmYTAKBggqhkjOPQQDAjBz\nMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2Fu\nIEZyYW5jaXNjbzEZMBcGA1UEChMQb3JnMS5leGFtcGxlLmNvbTEcMBoGA1UEAxMT\nY2Eub3JnMS5leGFtcGxlLmNvbTAeFw0xODEwMjQwODMzMDBaFw0xOTEwMjQwODM4\nMDBaMD4xHDANBgNVBAsTBmNsaWVudDALBgNVBAsTBG9yZzExHjAcBgNVBAMMFWVy\nbmVzdEBidWxsaW9uaXN0LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGwC\nAciyZR1O6jRRPR/DaS7b5R7Q/8oZ9MCJSwKpS7UoNIjcmL32BlHGOoKvBw3E7GXT\nFnY1IMBgg6nG62XzCYujgdswgdgwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQC\nMAAwHQYDVR0OBBYEFLJcGZw6EhjY+b2U0EvQRakqvNPWMCsGA1UdIwQkMCKAIEI5\nqg3NdtruuLoM2nAYUdFFBNMarRst3dusalc2Xkl8MGwGCCoDBAUGBwgBBGB7ImF0\ndHJzIjp7ImhmLkFmZmlsaWF0aW9uIjoib3JnMSIsImhmLkVucm9sbG1lbnRJRCI6\nImVybmVzdEBidWxsaW9uaXN0LmNvbSIsImhmLlR5cGUiOiJjbGllbnQifX0wCgYI\nKoZIzj0EAwIDSAAwRQIhANHnfrqLTPs0puZfEQkPY/Cj+3MXTRF3InrH0gKitd7W\nAiBHZO9IX3kFr+dGOvuU5BzIz5fZ4WIO8CE2f/9Q4otuzA==\n-----END CERTIFICATE-----\n"
+    },
+    "USER05": {
+        "id": "aaa@th.ibm.com",
+        "username": "aaa",
+        "age": "50",
+        "gender": "male",
+        "nationality": "asgardian",
+        "role": "user",
+        "balance": [{
+            "currencyCode": "USD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "SGD",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "THB",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "CNY",
+            "balanceAmount": "0"
+            },
+            {
+            "currencyCode": "JPY",
+            "balanceAmount": "0"
+            }
+        ],
+        "cert": "-----BEGIN CERTIFICATE-----\nMIICijCCAjGgAwIBAgIUefvLpfAQGArvBqCob/BsTj/qFY8wCgYIKoZIzj0EAwIw\nczELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT\nE2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMTgxMDI0MDgzMzAwWhcNMTkxMDI0MDgz\nODAwWjA8MRwwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMRwwGgYDVQQDDBNj\nZWNpbGllQG1ldGFsb3IuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQCat\nUqFhz7e7w1h1n0ebUN7z485dsr+oPquGMuyhJ7b07yn+zNywb3HG9rFLTRwrZfhy\nG03IHHAzJ7/DwgYn06OB2TCB1jAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIw\nADAdBgNVHQ4EFgQUPIak3E2PDfQ5CQwM8LcCwNrmXMkwKwYDVR0jBCQwIoAgQjmq\nDc122u64ugzacBhR0UUE0xqtGy3d26xqVzZeSXwwagYIKgMEBQYHCAEEXnsiYXR0\ncnMiOnsiaGYuQWZmaWxpYXRpb24iOiJvcmcxIiwiaGYuRW5yb2xsbWVudElEIjoi\nY2VjaWxpZUBtZXRhbG9yLmNvbSIsImhmLlR5cGUiOiJjbGllbnQifX0wCgYIKoZI\nzj0EAwIDRwAwRAIgSLXuy/7EKFC84rgta4GxU+BiTtmA8iBFSDM1bzS9hIcCIFhm\nqCY0G4guIn3gNRgevwXeRtzzmf4kJs9U8oKRCyTP\n-----END CERTIFICATE-----\n"
+    }
+}

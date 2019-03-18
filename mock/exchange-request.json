@@ -1,0 +1,26 @@
+{
+    "MOCKREQUEST00": {
+        "id": "patcharapol@th.ibm.com",
+        "requestId": "MOCK000",
+        "origin": "null",
+        "target": "null",
+        "originamount": "0",
+        "targetamount": "0"
+    },
+    "MOCKREQUEST01": {
+        "id": "cat@th.ibm.com",
+        "requestId": "MOCK001",
+        "origin": "SGD",
+        "target": "USD",
+        "originamount": "13500",
+        "targetamount": "0"
+    },
+    "REQUEST01": {
+        "id": "patcharapol@th.ibm.com",
+        "requestId": "REQUEST001",
+        "origin": "USD",
+        "target": "SGD",
+        "originamount": "10000",
+        "targetamount": "0"
+    }
+}
